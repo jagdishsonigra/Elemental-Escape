@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4190FBC9-CD5D-FA5A-360D-403CAE57297A}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StartEndScripts/replayButton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StartEndScripts/replayButton.cs" Line="22" Column="45" />
+      <File FileName="Assets/Scripts/StartEndScripts/startButton.cs" Line="19" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EscapeRoom">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="StartEndScripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0eb13c80-46a9-481f-bc48-f16333c68fdc" />
+</Properties>
